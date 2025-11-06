@@ -4,7 +4,7 @@ Aplikasi pencari tempat yang pakai AI lokal (Open WebUI) + Google Maps. Tanya da
 
 ![HeyPico Screenshot](public/images.png)
 
-**Demo Video:** [Tonton video demo aplikasi](public/video.MOV)
+![HeyPico Demo](public/demo.gif)
 
 ## Fitur
 
