@@ -2,6 +2,8 @@
 
 Aplikasi pencari tempat yang pakai AI lokal (Open WebUI) + Google Maps. Tanya dalam bahasa natural, dapet rekomendasi + peta.
 
+![HeyPico Screenshot](public/images.png)
+
 ## Fitur
 
 - Pencarian pakai AI (Open WebUI)
