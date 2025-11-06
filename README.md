@@ -4,6 +4,11 @@ Aplikasi pencari tempat yang pakai AI lokal (Open WebUI) + Google Maps. Tanya da
 
 ![HeyPico Screenshot](public/images.png)
 
+<video width="800" controls>
+  <source src="public/video.MOV" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
 ## Fitur
 
 - Pencarian pakai AI (Open WebUI)
